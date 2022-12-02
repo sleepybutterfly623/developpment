@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sakura Strawberry Latte",
+        "description": "A caffeine-free drink with fresh strawberries, milk, and sakura cherry blossom syrup.",
+        "product-type": "Drinks",
+        "dietary-restrictions": ["Nut-free", "Gluten-free"],
+        "price": 4.75,
+        "image": "images/sakura-strawberry-latte.png",
+        "popularity": "10"
+    },
+
+    {
+        "name": "Cold Brew Coffee",
+        "description": "A concentrated coffee made with coffee beans and cooled water.",
+        "product-type": "Drinks",
+        "dietary-restrictions": ["Gluten-free", "Nut-free", "Dairy-free"],
+        "price": 4.50,
+        "image": "images/cold-brew-coffee.png",
+        "popularity": "4"
+    },
+
+    {
+        "name": "Hojicha Hot Chocolate",
+        "description": "A blend of roasted green tea (hojicha) and hot chocolate with low caffeine.",
+        "product-type": "Drinks",
+        "dietary-restrictions": ["Gluten-free", "Nut-free"],
+        "price": 3.75,
+        "image": "images/hojicha-hot-chocolate.png",
+        "popularity": "3"
+    },
+
+    {
+        "name": "Earl Grey Waffles with Mixed Berries",
+        "description": "A tea-infused waffle batter served with mixed berries.",
+        "product-type": "Waffles",
+        "dietary-restrictions": ["Nut-free"],
+        "price": 7.75,
+        "image": "images/earl-grey-waffles.png",
+        "popularity": "5"
+    },
+
+    {
+        "name": "Waffle Turkey Sandwich",
+        "description": "Two buttermilk waffles with slices of turkey deli meat, mixed greens, and an egg. Also comes with tater tots.",
+        "product-type": "Waffles",
+        "dietary-restrictions": ["Nut-free"],
+        "price": 9.75,
+        "image": "images/waffle-sandwich.png",
+        "popularity": "2"
+    },
+
+    {
+        "name": "Classic Glazed Donut",
+        "description": "A donut with a simple vanilla glaze.",
+        "product-type": "Donuts",
+        "dietary-restrictions":["Nut-free"],
+        "price": 2.50,
+        "image":"images/glazed-donut.png",
+        "popularity": "5"
+    },
+
+    {
+        "name": "Banana Miso White Chocolate Donut",
+        "description": "A donut that combines the richness of banana, Japanese miso, and white chocolate.",
+        "product-type": "Donuts",
+        "dietary-restrictions": ["Nut-free"],
+        "price": 2.75,
+        "image": "images/banana-donut.png",
+        "popularity": "4"
+    },
+
+    {
+        "name": "Lychee Rose Donut",
+        "description": "A donut infused with rose water and lychee flavor.",
+        "product-type": "Donuts",
+        "dietary-restrictions": ["Nut-free"],
+        "price": 2.75,
+        "image": "images/lychee-donut.png",
+        "popularity": "9"
+    },
+
+    {
+        "name": "Gianduja",
+        "description": "One 8 oz. jar of dark chococlate hazelnut spread.",
+        "product-type": "Spreads",
+        "dietary-restrictions": ["Dairy-free", "Gluten-free"],
+        "price": 6.00,
+        "image": "images/chocolate-spread.png",
+        "popularity": "4"
+    },
+
+    {
+        "name": "Strawberry Earl Grey Jam",
+        "description": "One 8 oz. jar of strawberry jam infused with Earl Grey tea.",
+        "product-type": "Spreads",
+        "dietary-restrictions": ["Gluten-free", "Nut-free", "Dairy-free"],
+        "price": 6.00,
+        "image": "images/strawberry-jam.png",
+        "popularity": "4"
+    },
+
+    {
+        "name": "Artisan-style Loaf",
+        "description": "A loaf of bread with a crisp exterior and soft, chewy texture.",
+        "product-type": "Breads",
+        "dietary-restrictions": ["Dairy-free", "Nut-free"],
+        "price": 4.75,
+        "image": "images/artisan-bread.png",
+        "popularity": "7"
+    },
+
+    {
+        "name": "Sourdough Bread",
+        "description": "A loaf of bread with a tangy flavor and slightly chewy texture.",
+        "product-type": "Breads",
+        "dietary-restrictions": ["Dairy-free", "Nut-free"],
+        "price": 4.75,
+        "image": "images/sourdough.png",
+        "popularity": "1"
+    }
+
+]
